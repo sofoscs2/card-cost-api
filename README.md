@@ -19,7 +19,7 @@ mvn package
 ```
 
 In order to build and run project requires
-- Install Java SE Development Kit 8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- Install Java SE 17 
 - Install Maven (https://maven.apache.org/download.cgi)
 
 Why Maven: (https://maven.apache.org/what-is-maven.html)
